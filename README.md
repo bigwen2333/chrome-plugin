@@ -1,2 +1,2 @@
 # chrome-plugin
-test
+this is a chrome plugin
